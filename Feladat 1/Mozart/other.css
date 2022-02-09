@@ -1,0 +1,9 @@
+body{
+    background-color: #0080FF;
+}
+a.back{
+    margin-left: 50%;
+    margin-right: 50%;
+    text-align: center;
+    text-decoration: none;
+}
