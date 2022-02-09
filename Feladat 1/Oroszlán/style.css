@@ -1,0 +1,23 @@
+body{
+    background-color: #cddced;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+table{
+    border: 2pt solid;
+}
+td.first{
+    width: 200pt;
+}
+img{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2pt solid;
+    width: 180pt;
+}
