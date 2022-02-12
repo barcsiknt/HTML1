@@ -1,28 +1,35 @@
-body{
+body {
     background-color: #00008b;
 }
-table{
+
+table {
     background-color: #f5deb3;
+    margin-right: auto;
+    margin-left: auto;
     border: 0pt;
 }
-table.szoveg{
-    margin-right: auto;
-    margin-left: auto;
+
+img {
+    display: block;
+}
+
+table.szoveg {
     width: 60%;
 }
-table.euhimnusz{
-    margin-right: auto;
-    margin-left: auto;
+
+table.euhimnusz {
     width: 90%;
 }
-td{
-    padding-left: 5pt;
-    padding-right: 5pt;
+
+td {
+    padding: 5pt;
 }
-h2{
+
+h2 {
     color: white;
     text-align: center;
 }
-a.szoveg{
+
+a.szoveg {
     color: white;
 }
