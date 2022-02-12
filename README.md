@@ -1,8 +1,11 @@
 # HTML1
 
-## cimsor
+## Feladatok a berzsenyi.hu-rol
+[berzsenyi.hu](http://info.berzsenyi.hu/halozatok/html-feladatok)
 
-sima bekezdes
-
-* lista 1
-* lista 2
+1. Feladat : Mozart
+    * [Feladat](http://info.berzsenyi.hu/halozatok/html-feladatok/mozart)
+    * [Megoldás](./Feladat1/Mozart/mozart.html)
+2. Feladat: Himnusz
+    * [Feladat](http://info.berzsenyi.hu/halozatok/html-feladatok/himnusz)
+    * [Megoldás](./Feladat1/Himnusz/euhimnusz.html)
